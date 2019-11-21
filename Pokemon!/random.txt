@@ -1,0 +1,3 @@
+I'm not ashamed to admit that I still posses the same level of childish joy for Pokemon today as I did in my even younger days, when life truly was void of troubles and stress.
+So here I take in a datset of Pokemon stats and info, and try to predict if a Pokemon can be a Legendary one or not. 
+Just a fun experiment merging AI and Pokemon togther in a small way I know how; the things I love.
